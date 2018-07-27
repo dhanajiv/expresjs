@@ -37,4 +37,8 @@ $(function() {
    });
    $('.feedback-messages').html(output);
   }
+  function xx()
+  {
+	  console.log();
+  }
 });
