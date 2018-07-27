@@ -39,6 +39,6 @@ $(function() {
   }
   function xx()
   {
-	  console.log();
+	  console.log("this is for the testing");
   }
 });
